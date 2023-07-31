@@ -6,6 +6,7 @@
 <h2> This new edit</h2>
 
 
-</body
+<h3>new commit</h3>
+</body>
 </html>
 
